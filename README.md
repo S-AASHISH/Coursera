@@ -1,2 +1,2 @@
 # Coursera
-Following tutorial of courseera
+Following tutorial of coursera
